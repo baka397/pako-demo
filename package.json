@@ -1,0 +1,18 @@
+{
+  "name": "pako-start",
+  "version": "1.0.0",
+  "description": "pako start demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "pako",
+    "demo"
+  ],
+  "author": "bakajinsei",
+  "license": "ISC",
+  "dependencies": {
+    "pako": "^1.0.4"
+  }
+}
