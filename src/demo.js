@@ -1,4 +1,4 @@
-function previewFile() {
+function compressFile() {
     let file = document.querySelector('input[type=file]').files[0];
     let reader = new FileReader();
     console.info('原始文件名:',file.name);
